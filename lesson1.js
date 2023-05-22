@@ -3,6 +3,3 @@ fun IBMtesting(){
   
 }
 
-fun addingNew(){
-  alert("This is part of the second branch");
-}
